@@ -21,6 +21,9 @@ sudo apt install libnghttp2
 sudo apt install libxpat-dev
 sudo apt install build-essential
 sudo apt install g++ #compilateur c++
+sudo apt install pkg-config
+sudo apt install bison
+
 
 ./configure --prefix=/usr/local/apache2
 make
