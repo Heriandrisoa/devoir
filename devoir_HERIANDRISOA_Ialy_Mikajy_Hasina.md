@@ -1,4 +1,4 @@
-# installation apache php
+# installation apache et php
 ## apache
 ```bash
 #telechargement du fichier source httpd-2.4.59.tar.gz
