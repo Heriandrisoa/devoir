@@ -37,6 +37,8 @@ cd php-8.1.28
 nano README
 ```
 #les paquets suivant ont été mentionnée dans readme comme étant a installer
+
+```bash
 sudo apt install -y pkg-config build-essential autoconf bison re2c \
                         libxml2-dev libsqlite3-dev
 nano INSTALL
@@ -45,4 +47,6 @@ nano INSTALL
 make test
 make
 ```
+
+
 <img src="https://github.com/Heriandrisoa/devoir/blob/main/apache.png" alt="description">
