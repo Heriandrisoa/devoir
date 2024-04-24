@@ -29,13 +29,15 @@ apache -v
 ```
 ## apache
 <img src="https://github.com/Heriandrisoa/devoir/blob/main/apache.png" alt="description">
+
 ```bash
 gunzip php-8.1.28.tar.gz
 tar -xvf php-8.1.28.tar
 cd php-8.1.28
 nano README
+```
 #les paquets suivant ont été mentionnée dans readme comme étant a installer
-    sudo apt install -y pkg-config build-essential autoconf bison re2c \
+sudo apt install -y pkg-config build-essential autoconf bison re2c \
                         libxml2-dev libsqlite3-dev
 nano INSTALL
 ./configure --help
