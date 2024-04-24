@@ -30,7 +30,6 @@ apache -v
 ## apache
 <img src="https://github.com/Heriandrisoa/devoir/blob/main/apache.png" alt="description">
 ```bash
-
 gunzip php-8.1.28.tar.gz
 tar -xvf php-8.1.28.tar
 cd php-8.1.28
@@ -43,4 +42,5 @@ nano INSTALL
 ./Configure --prefix=/usr/local/php
 make test
 make
+```
 <img src="https://github.com/Heriandrisoa/devoir/blob/main/apache.png" alt="description">
