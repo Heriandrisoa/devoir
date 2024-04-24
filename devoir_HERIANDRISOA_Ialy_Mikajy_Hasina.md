@@ -27,7 +27,7 @@ make
 make install
 apache -v
 ```
-## apache
+## PHP
 <img src="https://github.com/Heriandrisoa/devoir/blob/main/apache.png" alt="description">
 
 ```bash
